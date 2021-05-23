@@ -323,6 +323,7 @@ img{
     flex-direction: column;
     box-shadow: 0 5px 22px rgba(0, 0, 0, 0.5);
     transition: 0.3s ease-in-out;
+    border-radius: 10px;
 }
 
 .explore__container .card:hover{
@@ -337,6 +338,7 @@ img{
     left: 5px;
     right: 5px;
     z-index: 1;
+    border-radius: 10px;
 }
 
 .explore__container .card .imgBx img{
